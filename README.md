@@ -3,7 +3,7 @@
 
 **NMM-98/NMM-98** 
 
-Here are some ideas to get you started:
+Información básica:
 
 - 🔭 Realizando prácticas en Cartagon.
 - 🌱 Aprendiendo más sobre Python, Django & Django rest framework, React, Css, JavaScript...
