@@ -9,7 +9,7 @@ Información básica:
 - 🌱 Aprendiendo más sobre Python, Django & Django Rest, React, Css, JavaScript...
 - 👯 ¡Acepto consejos para mejorar!
 - 💬 Puedes escribirme por privado en LinkedIn si quieres conversar.
-- 📫 Contacto de LinkedIN: www.linkedin.com/in/isnelda-martín-méndez
+- 📫 Contacto de LinkedIn: www.linkedin.com/in/isnelda-martín-méndez
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NMM-98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
