@@ -6,7 +6,7 @@
 Información básica:
 
 - 🔭 Realizando prácticas en Cartagon.
-- 🌱 Aprendiendo más sobre Python, Django & Django rest framework, React, Css, JavaScript...
+- 🌱 Aprendiendo más sobre Python, Django & Django Rest, React, Css, JavaScript...
 - 👯 ¡Acepto consejos para mejorar!
 - 💬 Puedes escribirme por privado en LinkedIn si quieres conversar.
 - 📫 Contacto de LinkedIN: www.linkedin.com/in/isnelda-martín-méndez
